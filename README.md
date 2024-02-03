@@ -4,10 +4,10 @@
 
 <h3>Используемые технологии</h3>
 
-<li>
-  <ul>HTML</ul>
 
-  <ul>Bootstrap</ul>
+  <li>HTML</li>
 
-  <ul>PHP</ul>
-</li>
+  <li>Bootstrap</li>
+
+  <li>PHP</li>
+
